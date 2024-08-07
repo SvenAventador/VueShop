@@ -11,7 +11,7 @@ Technology stack for this project:
 - @formkit/auto-animate;
 - Composition API / Options API;
 - ESLint;
-- Prettier;
+- Prettier.
 ```
 
 # I wish you success ⎛⎝ ≽ > ⩊ < ≼ ⎠⎞
